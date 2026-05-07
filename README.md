@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [3660-jump-game-ix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3660-jump-game-ix) |
 ## Math
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 ## Linked List
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0061-rotate-list) |
+| [1861-rotating-the-box](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 ## Dynamic Programming
 |  |
 | ------- |
