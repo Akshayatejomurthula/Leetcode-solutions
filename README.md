@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Breadth-First Search
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2784-check-if-array-is-good](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+## Prefix Sum
+|  |
+| ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 <!---LeetCode Topics End-->
