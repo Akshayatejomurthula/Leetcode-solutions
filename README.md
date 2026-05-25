@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1861-rotating-the-box) |
+| [2054-two-best-non-overlapping-events](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2540-minimum-common-value](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1871-jump-game-vii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1871-jump-game-vii) |
+| [2054-two-best-non-overlapping-events](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3660-jump-game-ix) |
 ## Hash Table
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2054-two-best-non-overlapping-events](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2784-check-if-array-is-good](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Prefix Sum
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2540-minimum-common-value](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Depth-First Search
 |  |
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
