@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1306-jump-game-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1345-jump-game-iv) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1861-rotating-the-box) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1861-rotating-the-box](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 ## Linked List
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2540-minimum-common-value](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Depth-First Search
