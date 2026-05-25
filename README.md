@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3713-longest-balanced-substring-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Breadth-First Search
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3713-longest-balanced-substring-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Trie
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
