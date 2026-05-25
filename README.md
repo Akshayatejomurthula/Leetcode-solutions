@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 ## Bit Manipulation
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Geometry
 |  |
 | ------- |
@@ -320,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
