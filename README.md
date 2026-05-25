@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0061-rotate-list) |
+| [0696-count-binary-substrings](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1861-rotating-the-box](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2540-minimum-common-value](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0761-special-binary-string) |
