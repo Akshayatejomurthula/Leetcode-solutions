@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
