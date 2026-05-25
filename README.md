@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0840-magic-squares-in-grid](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Matrix
