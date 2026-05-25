@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3714-longest-balanced-substring-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3714-longest-balanced-substring-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3714-longest-balanced-substring-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Trie
 |  |
 | ------- |
