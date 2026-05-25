@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0067-add-binary) |
 | [2402-meeting-rooms-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3379-transformed-array) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
