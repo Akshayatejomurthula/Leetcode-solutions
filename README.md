@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1861-rotating-the-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1861-rotating-the-box) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2540-minimum-common-value](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2402-meeting-rooms-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
