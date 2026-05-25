@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Backtracking
 |  |
 | ------- |
@@ -286,4 +288,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
