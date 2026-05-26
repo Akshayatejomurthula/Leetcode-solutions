@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3640-trionic-array-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3660-jump-game-ix) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
