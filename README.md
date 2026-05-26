@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3637-trionic-array-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Linked List
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
