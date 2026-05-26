@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
