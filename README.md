@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3453-separate-squares-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Depth-First Search
 |  |
@@ -316,12 +318,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
 | ------- |
 | [2092-find-all-people-with-secret](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Heap (Priority Queue)
 |  |
@@ -426,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
