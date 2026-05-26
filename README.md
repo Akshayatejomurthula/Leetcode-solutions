@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 ## Trie
@@ -490,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1622-fancy-sequence) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
