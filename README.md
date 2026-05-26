@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2573-find-the-string-with-lcp](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2784-check-if-array-is-good) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2573-find-the-string-with-lcp](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2573-find-the-string-with-lcp](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -341,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
+| [2573-find-the-string-with-lcp](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
