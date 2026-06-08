@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2751-robot-collisions) |
