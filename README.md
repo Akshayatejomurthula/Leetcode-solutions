@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
