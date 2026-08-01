@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0799-champagne-tower) |
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Minimum Spanning Tree
 |  |
@@ -691,4 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
