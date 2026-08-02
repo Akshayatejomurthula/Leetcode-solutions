@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1390-four-divisors) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1340-jump-game-v) |
@@ -711,4 +714,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
