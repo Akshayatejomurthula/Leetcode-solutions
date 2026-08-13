@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2402-meeting-rooms-iii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Shortest Path
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
