@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akshayatejomurthula/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
